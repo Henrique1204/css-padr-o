@@ -110,7 +110,7 @@ html, body{
 
 /* Break 300 - 739 */
 
-@media only screen and (max-width: 979){
+@media only screen and (max-width: 739){
 	.container{
 		width: 300px;
 	}
