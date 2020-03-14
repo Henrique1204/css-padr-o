@@ -1,5 +1,5 @@
 html, body{
-	width: 100vw;
+	width: 100%;
 	margin: 0;
 }
 
@@ -21,16 +21,19 @@ html, body{
 }
 
 .centro{
+	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
 .esquerda{
+	display: flex;
 	justify-content: flex-start;
 	align-items: center;
 }
 
 .direita{
+	display: flex;
 	justify-content: flex-end;
 	align-items: center;
 }
